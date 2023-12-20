@@ -9,7 +9,7 @@ Welcome to the GeoGreeting repository! This project is a simple mobile applicati
 
 ## Getting Started
 
-To get started with GeoGreeting, you'll need to have Node.js installed on your system. Additionally, you'll need to install Expo to run the application on your device or emulator.
+To get started with GeoGreeting, you'll need to have Node.js installed on your system. Additionally, you'll need to install the Expo Go app to run the application on your device or emulator.
 
 ### Prerequisites
 
@@ -33,7 +33,7 @@ To get started with GeoGreeting, you'll need to have Node.js installed on your s
    ```
 4. **Start the application:**
    ```bash
-   expo start
+   npx expo start
    ```
 
 ## Usage

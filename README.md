@@ -25,7 +25,7 @@ To get started with GeoGreeting, you'll need to have Node.js installed on your s
    ```
 2. **Navigate to the project directory:**
    ```bash
-   cd GeoGreeting
+   cd GeoGreeting/GeoGreeting
    ```
 3. **Install dependencies:**
    ```bash

@@ -1,5 +1,5 @@
 # GeoGreeting
-Welcome to the GeoGreeting repository! This project is a simple mobile application built using React Native and Expo, designed to let users create personalized greeting cards with a location tag in it, and send it to their loved ones through Email or SMS! Also, users can save the greeting cards for later view! 
+Welcome to the GeoGreeting repository! This project is a simple mobile application built using React Native and Expo, designed to let users create personalized greeting cards with a location tag in it, and send it to their loved ones through Email or SMS! Also, users can save the greeting cards for later viewing! 
 
 ## Features
 
